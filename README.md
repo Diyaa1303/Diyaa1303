@@ -1,4 +1,4 @@
-# Hi, I'm Diyaa Chakraborty 👋
+# Hi, I'm Diyaa Chakraborty 
 
 **Business operations professional building SQL and BI skills.**
 
