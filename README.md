@@ -23,8 +23,21 @@ Bachelor of Arts in Journalism and Mass Communication, University of Calcutta
 ## 📂 Projects
 ---
 
-My first SQL projects are in progress, and I'll add them here as each one is completed.
----
+## 📂 Projects
+
+### Work-inspired analysis (Simulated Data with redacted names)
+
+| Project | What it covers | Tools |
+|---|---|---|
+| [Partner Renewals Pipeline](https://github.com/Diyaa1303/work-partner-renewals-pipeline) | Renewals due in 30/60/90 days, at-risk partners | SQL |
+| [Partner AMC Benchmark](https://github.com/Diyaa1303/work-partner-amc-benchmark) | Partners closing above, below or at previous AMC value | SQL |
+
+### Personal projects
+
+| Project | What it covers | Tools |
+|---|---|---|
+| [Netflix Content Analysis](https://github.com/Diyaa1303/personal-netflix-content-analysis) | Content trends by genre, country and year | SQL, Power BI |
+| [Festive Sales Analysis](https://github.com/Diyaa1303/personal-festive-sales-analysis) | Top products and regional demand during Diwali | SQL, Tableau |
 
 ---
 
