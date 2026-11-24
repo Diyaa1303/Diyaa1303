@@ -4,7 +4,7 @@
 
 I work in Partner and Channel operations at IBM India, where I handle deal coordination, CRM management, Excel-based reporting and partner relationships. I'm now building on that with SQL, Power BI and Tableau, and this profile is where I document the projects I build along the way.
 
-Bangalore, India\
+Bangalore, India
   
 ---
 
