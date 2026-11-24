@@ -26,7 +26,7 @@ Bachelor of Arts in Journalism and Mass Communication, University of Calcutta
 
 | Project | What it covers | Tools | Status |
 |---|---|---|---|
-| Vendor AMC Benchmark | Partners closing above, below or at previous AMC value | SQL | In progress |
+| [Vendor AMC Benchmark](https://github.com/Diyaa1303/work-Vendor-AMC-benchmark) | Partners closing above, below or at previous AMC value, with a benchmark list | SQL | Complete |
 | Vendor Renewals Pipeline | Renewals due in 30/60/90 days, at-risk partners | SQL | In progress |
 
 ### Personal projects
