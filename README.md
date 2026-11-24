@@ -21,11 +21,8 @@ Bachelor of Arts in Journalism and Mass Communication, University of Calcutta
 ---
 
 ## 📂 Projects
----
 
-## 📂 Projects
-
-### Work-inspired analysis (Simulated Data with redacted names)
+### Work-Related analysis (Simulated Data with redacted names)
 
 | Project | What it covers | Tools |
 |---|---|---|
