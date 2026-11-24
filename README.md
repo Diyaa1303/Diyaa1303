@@ -22,19 +22,20 @@ Bachelor of Arts in Journalism and Mass Communication, University of Calcutta
 
 ## 📂 Projects
 
-### Work-Related analysis (Simulated Data with redacted names)
+### Work-inspired analysis (simulated data)
 
-| Project | What it covers | Tools |
-|---|---|---|
-| [Partner Renewals Pipeline](https://github.com/Diyaa1303/work-partner-renewals-pipeline) | Renewals due in 30/60/90 days, at-risk partners | SQL |
-| [Partner AMC Benchmark](https://github.com/Diyaa1303/work-partner-amc-benchmark) | Partners closing above, below or at previous AMC value | SQL |
+| Project | What it covers | Tools | Status |
+|---|---|---|---|
+| Vendor AMC Benchmark | Partners closing above, below or at previous AMC value | SQL | In progress |
+| Vendor Renewals Pipeline | Renewals due in 30/60/90 days, at-risk partners | SQL | In progress |
 
 ### Personal projects
 
-| Project | What it covers | Tools |
-|---|---|---|
-| [Netflix Content Analysis](https://github.com/Diyaa1303/personal-netflix-content-analysis) | Content trends by genre, country and year | SQL, Power BI |
-| [Festive Sales Analysis](https://github.com/Diyaa1303/personal-festive-sales-analysis) | Top products and regional demand during Diwali | SQL, Tableau |
+| Project | What it covers | Tools | Status |
+|---|---|---|---|
+| [Diwali Mart SQL Practice](https://github.com/Diyaa1303/personal-diwali-mart-sql-practice) | 10 queries from basic filtering to joins, CTEs and window functions | SQL | Complete |
+| Netflix Content Analysis | Content trends by genre, country and year | SQL, Power BI | In progress |
+| Festive Sales Analysis | Top products and regional demand during Diwali | SQL, Tableau | In progress |
 
 ---
 
