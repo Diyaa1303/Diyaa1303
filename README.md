@@ -34,8 +34,7 @@ Bachelor of Arts in Journalism and Mass Communication, University of Calcutta
 | Project | What it covers | Tools | Status |
 |---|---|---|---|
 | [Diwali Mart SQL Practice](https://github.com/Diyaa1303/personal-diwali-mart-sql-practice) | 10 queries from basic filtering to joins, CTEs and window functions | SQL | Complete |
-| Netflix Content Analysis | Content trends by genre, country and year | SQL, Power BI | In progress |
-| Festive Sales Analysis | Top products and regional demand during Diwali | SQL, Tableau | In progress |
+| [Netflix Content Analysis](https://github.com/Diyaa1303/personal-netflix-content-analysis) | Content trends by type, country, rating and genre, with an Excel dashboard | SQL, Excel | Complete |
 
 ---
 
